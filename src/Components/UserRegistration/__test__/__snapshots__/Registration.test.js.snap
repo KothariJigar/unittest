@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Registration component tests should match snapshot 1`] = `
+<div>
+  <div>
+    <div>
+      <h1>
+        User Registration
+      </h1>
+    </div>
+    <form>
+      <label
+        class="label"
+      >
+        UserName
+      </label>
+      <input
+        class="input"
+        data-testid="username"
+        type="text"
+        value=""
+      />
+      <label
+        class="label"
+      >
+        Email
+      </label>
+      <input
+        class="input"
+        data-testid="email"
+        type="text"
+        value=""
+      />
+      <label
+        class="label"
+      >
+        Password
+      </label>
+      <input
+        class="input"
+        data-testid="password"
+        type="password"
+        value=""
+      />
+      <label
+        class="label"
+      >
+        City
+      </label>
+      <input
+        class="input"
+        data-testid="city"
+        type="city"
+        value=""
+      />
+      <label
+        class="label"
+      >
+        Age
+      </label>
+      <input
+        class="input"
+        data-testid="age"
+        type="age"
+        value=""
+      />
+      <button
+        class="btn"
+      >
+        submit
+      </button>
+    </form>
+  </div>
+</div>
+`;

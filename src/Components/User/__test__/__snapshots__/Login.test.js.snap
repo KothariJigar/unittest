@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component tests should match snapshot 1`] = `
+<div>
+  <div>
+    <h1>
+      LoggedIn User 
+    </h1>
+  </div>
+  <form>
+    <label
+      class="label"
+    >
+      UserName
+    </label>
+    <input
+      class="input"
+      data-testid="input-field"
+      type="text"
+      value=""
+    />
+    <label
+      class="label"
+    >
+      password
+    </label>
+    <input
+      class="input"
+      data-testid="password-field"
+      type="password"
+      value=""
+    />
+    <button
+      class="btn"
+    >
+      Login
+    </button>
+  </form>
+</div>
+`;
